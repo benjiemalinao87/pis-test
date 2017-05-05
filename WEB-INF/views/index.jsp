@@ -15,7 +15,7 @@
             <table class="table table-striped table-hover">
                 <thead>
                     <tr>
-                        <th>Last Name</th>
+                        <th>Last Name:Malinao</th>
                         <th>First Name</th>
                         <th>Birth Date</th>
                         <th>Address</th>
